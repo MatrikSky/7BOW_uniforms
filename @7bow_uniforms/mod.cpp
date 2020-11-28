@@ -1,0 +1,10 @@
+﻿name = "Clan [7BOW] Uniforms ©";
+picture = "logo.paa";
+logo = "logo.paa";
+logoOver = "logo.paa";
+actionName = "7BOW";
+action= "https://discord.gg/ZwsxmgN";
+author = "MatrikSky, Wojtek885";
+tooltip = "Clan [7BOW] Uniforms ©";
+tooltipOwned = "";
+description = "Clan [7BOW] Uniforms ©";
